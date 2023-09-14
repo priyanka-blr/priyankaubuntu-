@@ -1,0 +1,4 @@
+Assignment:
+1. Pick your favourite open source project on Github, with sqlite 
+2. Deploy it on Azure, using NGINX, Jenkins
+3. Setup Monitoring
